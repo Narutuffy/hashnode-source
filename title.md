@@ -1,5 +1,5 @@
 ---
-slug: post-directly-from-gas
+slug: sdf-dsfkldsfjdsf
 tags: reactjs, css, python, nodejs
 domain: https://testvamsiteam.hashnode.dev
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
